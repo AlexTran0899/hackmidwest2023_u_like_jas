@@ -16,7 +16,7 @@ Ensure you have reviewed the [Rules & FAQ](https://hackmidwest.com/#faq)
 
 1.   **Full Name**  || **fullname@company.com**  (or fullname@school.edu if you're a CS student) || **Github Username**
 2.   Joseph Folen || jwfolen@uark.edu
-3.
+3.   Alex Tran || phtran@uark.edu || alextran0899
 4.
 5.
 
